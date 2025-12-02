@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 马斯克的「第一性原理」：他如何用物理学思维改变世界？
 categories: long
 ---
