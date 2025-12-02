@@ -3,12 +3,20 @@ layout: default
 title: 马斯克铁粉站
 ---
 
-# 🚀 马斯克铁粉站
+# 🚀 马斯克铁粉站（最大中文粉丝站）
 
-欢迎来到马斯克深度档案站。
+## 🔥 四大栏目快速导航
 
-## 最新文章
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
+- 📝 **[大作文](/long/)**：关于马斯克的长篇深度文章  
+- 💬 **[马斯克名言](/quotes/)**：令人深思的经典语录  
+- 🐦 **[X言X语](/tweets/)**：马斯克在 X 上的发言整理  
+- 😎 **[马斯克八卦](/gossip/)**：轻松有趣的马斯克故事  
+
+---
+
+## 📰 最新文章  
+{% for post in site.posts limit:8 %}
+- [{{ post.title }}]({{ post.url }})  
+  <small>{{ post.date | date: "%Y-%m-%d" }}</small>
 {% endfor %}
 

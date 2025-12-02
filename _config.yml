@@ -1,4 +1,16 @@
 theme: jekyll-theme-slate
-title: 马斯克铁粉站(最大中文粉丝站)
+title: 马斯克铁粉站（最大中文粉丝站）
 description: Elon Musk 深度档案库
+
+navigation:
+  - title: 首页
+    url: /
+  - title: 大作文
+    url: /long/
+  - title: 马斯克名言
+    url: /quotes/
+  - title: X言X语
+    url: /tweets/
+  - title: 马斯克八卦
+    url: /gossip/
 
