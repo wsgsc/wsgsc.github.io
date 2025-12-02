@@ -19,3 +19,10 @@ title: 马斯克铁粉站
   <small>{{ post.date | date: "%Y-%m-%d" }}</small>
 {% endfor %}
 
+
+<p>
+本站总访问量：<span id="busuanzi_value_site_pv">加载中...</span> 次  
+<br>
+本站访客数：<span id="busuanzi_value_site_uv">加载中...</span> 人  
+</p>
+
