@@ -1,6 +1,7 @@
 ---
 title: 埃隆·马斯克：Optimus 将会是一个无限赚钱的漏洞
 categories: quotes
+layout: post
 ---
 
 埃隆·马斯克：Optimus 将会是一个无限赚钱的漏洞

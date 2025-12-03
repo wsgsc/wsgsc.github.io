@@ -1,6 +1,7 @@
 ---
 title: 埃隆·马斯克：改变世界的工程狂人
 categories: long
+layout: post
 ---
 
 埃隆·马斯克（Elon Musk）几乎是当代最具争议、也最具影响力的科技人物之一。  

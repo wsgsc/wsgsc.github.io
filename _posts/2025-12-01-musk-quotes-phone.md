@@ -1,6 +1,7 @@
 ---
 title: 埃隆·马斯克：智能手机即将未来五年消亡
 categories: quotes
+layout: post
 ---
 埃隆·马斯克：智能手机即将未来五年消亡
 

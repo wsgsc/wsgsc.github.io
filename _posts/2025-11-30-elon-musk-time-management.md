@@ -1,6 +1,7 @@
 ---
 title: 马斯克的时间管理：一个人怎么同时管理五家公司？
 categories: long
+layout: post
 ---
 
 埃隆·马斯克曾同时担任 **SpaceX、Tesla、Neuralink、The Boring Company、X（Twitter）、xAI** 等多家公司的 CEO。  

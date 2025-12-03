@@ -1,6 +1,7 @@
 ---
 title: 埃隆·马斯克：火星上的生活最初会是这样的
 categories: quotes
+layout: post
 ---
 
 埃隆·马斯克：火星上的生活最初会是这样的

@@ -1,6 +1,7 @@
 ---
 title: 埃隆·马斯克：太阳是我们所知的最强大的能量形式
 categories: quotes
+layout: post
 ---
 
 埃隆·马斯克：太阳是我们所知的最强大的能量形式。

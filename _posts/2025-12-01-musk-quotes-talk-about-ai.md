@@ -1,6 +1,7 @@
 ---
 title: 埃隆·马斯克谈意识和人工智能
 categories: quotes
+layout: post
 ---
 
 埃隆·马斯克谈意识和人工智能：
