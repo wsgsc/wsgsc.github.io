@@ -1,5 +1,5 @@
 ---
-title: 太阳是我们所知的最强大的能量形式。
+title: 太阳是我们所知的最强大的能量形式
 categories: quotes
 ---
 
