@@ -63,6 +63,21 @@ title: 马斯克铁粉站
   </ul>
 </section>
 
+<!-- 全部文章 -->
+<section>
+  <h2>🗂 全部文章</h2>
+  <ul class="latest-list">
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+
+
 <!-- 数据统计 -->
 <p class="stats">
 本站总访问量：<span id="busuanzi_value_site_pv">加载中...</span> 次  
