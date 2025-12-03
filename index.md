@@ -3,10 +3,24 @@ layout: default
 title: 马斯克铁粉站
 ---
 
+<!-- 顶部导航栏 -->
+<header class="navbar" id="navbar">
+  <div class="nav-left">
+    <a href="/" class="nav-logo">🚀 马斯克铁粉站</a>
+  </div>
+  <div class="nav-right">
+    <a href="/long/">大作文</a>
+    <a href="/quotes/">名言</a>
+    <a href="/tweets/">X 言 X 语</a>
+    <a href="/gossip/">八卦</a>
+    <button id="themeToggle" class="theme-btn">🌓</button>
+  </div>
+</header>
+
+<!-- Hero 区域（简洁版，无按钮） -->
 <div class="hero">
-  <h1>🚀 马斯克铁粉站</h1>
+  <h1>马斯克铁粉站</h1>
   <p>中文互联网最系统的马斯克知识库：深度文章、名言、X 发言、故事、时间线。</p>
-  <a href="/long/" class="hero-btn">开始阅读</a>
 </div>
 
 <!-- 必读推荐 -->
@@ -18,7 +32,7 @@ title: 马斯克铁粉站
       <a class="card-title" href="/long/2025/11/30/elon-musk-intro.html">
         埃隆·马斯克：改变世界的工程狂人
       </a>
-      <p class="card-desc">一文读懂马斯克的成长轨迹、创办公司背后的逻辑，以及他的工程思维。</p>
+      <p class="card-desc">一文读懂马斯克的成长、工程思维与公司体系。</p>
       <span class="card-date">2025-11-30</span>
     </div>
   </div>
@@ -32,7 +46,7 @@ title: 马斯克铁粉站
     <a class="nav-card" href="/long/">
       <div class="nav-icon">📝</div>
       <div class="nav-title">大作文</div>
-      <p>对马斯克现象的深度解析</p>
+      <p>深度解析马斯克现象及思想</p>
     </a>
 
     <a class="nav-card" href="/quotes/">
@@ -60,7 +74,7 @@ title: 马斯克铁粉站
 <section>
   <h2>📰 最新文章</h2>
   <ul class="latest-list">
-    {% for post in site.posts limit:100 %}
+    {% for post in site.posts limit:8 %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
         <small>{{ post.date | date: "%Y-%m-%d" }}</small>
@@ -76,33 +90,75 @@ title: 马斯克铁粉站
 本站访客数：<span id="busuanzi_value_site_uv">加载中...</span> 人  
 </p>
 
-<style>
-/* 页面整体排版 */
-section { margin: 40px 0; }
-h2 { margin-bottom: 20px; }
 
-/* Hero 区域 */
+<style>
+/* ============ 顶部导航栏 ============ */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 14px 28px;
+  backdrop-filter: blur(10px);
+  background: rgba(255, 255, 255, 0.1);
+  transition: background 0.3s ease, box-shadow 0.3s;
+  z-index: 1000;
+}
+body.dark .navbar {
+  background: rgba(0, 0, 0, 0.3);
+}
+.navbar.scrolled {
+  background: var(--nav-solid);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+.nav-left a {
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.nav-right a, .theme-btn {
+  margin-left: 20px;
+  text-decoration: none;
+  font-size: 16px;
+}
+.theme-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* 全局颜色变量 */
+:root {
+  --bg: #ffffff;
+  --text: #000000;
+  --card-bg: #f5f5f5;
+  --nav-solid: rgba(255,255,255,0.9);
+}
+body.dark {
+  --bg: #1a1a1a;
+  --text: #eeeeee;
+  --card-bg: #2a2a2a;
+  --nav-solid: rgba(0,0,0,0.85);
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  transition: 0.25s ease;
+}
+
+/* Hero */
 .hero {
   text-align: center;
-  padding: 60px 20px;
+  padding: 120px 20px 60px;
   background: linear-gradient(135deg, #1a1a1a, #333);
   color: white;
-  border-radius: 16px;
+  border-radius: 20px;
+  margin-top: 70px;
   margin-bottom: 40px;
-}
-.hero-btn {
-  display: inline-block;
-  margin-top: 20px;
-  padding: 12px 28px;
-  background: #ffcc00;
-  color: #000;
-  font-weight: bold;
-  border-radius: 50px;
-  text-decoration: none;
-  transition: 0.25s;
-}
-.hero-btn:hover {
-  background: #ffe680;
 }
 
 /* 必读推荐卡片 */
@@ -111,27 +167,12 @@ h2 { margin-bottom: 20px; }
   gap: 16px;
   padding: 20px;
   border-radius: 16px;
-  background: #f5f5f5;
+  background: var(--card-bg);
   border: 1px solid #ddd;
+  transition: 0.25s;
 }
-.card-icon {
-  font-size: 38px;
-}
-.card-title {
-  font-size: 20px;
-  font-weight: bold;
-  text-decoration: none;
-}
-.card-title:hover {
-  text-decoration: underline;
-}
-.card-desc {
-  margin: 6px 0 4px;
-  color: #555;
-}
-.card-date {
-  font-size: 13px;
-  color: #999;
+body.dark .card {
+  border-color: #444;
 }
 
 /* 栏目导航 Grid */
@@ -141,27 +182,23 @@ h2 { margin-bottom: 20px; }
   gap: 20px;
 }
 .nav-card {
-  display: block;
-  background: #fafafa;
+  background: var(--card-bg);
+  text-decoration: none;
   padding: 20px;
   border-radius: 16px;
-  text-decoration: none;
-  color: inherit;
-  text-align: center;
   border: 1px solid #ddd;
   transition: 0.25s;
+  color: inherit;
 }
 .nav-card:hover {
-  background: #f0f0f0;
   transform: translateY(-3px);
+  background: rgba(0,0,0,0.05);
 }
-.nav-icon {
-  font-size: 30px;
-  margin-bottom: 10px;
+body.dark .nav-card {
+  border-color: #444;
 }
-.nav-title {
-  font-size: 18px;
-  font-weight: bold;
+body.dark .nav-card:hover {
+  background: rgba(255,255,255,0.08);
 }
 
 /* 最新文章列表 */
@@ -173,19 +210,39 @@ h2 { margin-bottom: 20px; }
   margin: 10px 0;
 }
 
-/* 访问量统计排版 */
+/* 数据排版 */
 .stats {
   margin-top: 40px;
   text-align: center;
   color: #666;
 }
-
-/* 深色模式支持 */
-@media (prefers-color-scheme: dark) {
-  body { background: #1a1a1a; color: #eee; }
-  .card, .nav-card { background: #2a2a2a; border-color: #444; }
-  .nav-card:hover { background: #333; }
-  .hero { background: linear-gradient(135deg, #000, #222); }
-}
 </style>
+
+
+<script>
+// =========== 主题切换（亮 / 暗） ===========
+const themeToggle = document.getElementById("themeToggle");
+const savedTheme = localStorage.getItem("theme");
+
+if (savedTheme === "dark") {
+  document.body.classList.add("dark");
+}
+
+themeToggle.addEventListener("click", () => {
+  document.body.classList.toggle("dark");
+  localStorage.setItem("theme",
+    document.body.classList.contains("dark") ? "dark" : "light"
+  );
+});
+
+// =========== 顶部导航栏滚动变实色 ===========
+window.addEventListener("scroll", () => {
+  const nav = document.getElementById("navbar");
+  if (window.scrollY > 30) {
+    nav.classList.add("scrolled");
+  } else {
+    nav.classList.remove("scrolled");
+  }
+});
+</script>
 
