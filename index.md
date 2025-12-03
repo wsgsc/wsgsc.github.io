@@ -17,12 +17,6 @@ title: 马斯克铁粉站
   </div>
 </header>
 
-<!-- Hero 区域（简洁版，无按钮） -->
-<div class="hero">
-  <h1>马斯克铁粉站</h1>
-  <p>中文互联网最系统的马斯克知识库：深度文章、名言、X 发言、故事、时间线。</p>
-</div>
-
 <!-- 必读推荐 -->
 <section>
   <h2>⭐ 必读推荐</h2>
@@ -148,17 +142,6 @@ body {
   background: var(--bg);
   color: var(--text);
   transition: 0.25s ease;
-}
-
-/* Hero */
-.hero {
-  text-align: center;
-  padding: 120px 20px 60px;
-  background: linear-gradient(135deg, #1a1a1a, #333);
-  color: white;
-  border-radius: 20px;
-  margin-top: 70px;
-  margin-bottom: 40px;
 }
 
 /* 必读推荐卡片 */
