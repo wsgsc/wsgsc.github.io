@@ -3,20 +3,6 @@ layout: default
 title: 马斯克铁粉站
 ---
 
-<!-- 顶部导航栏 -->
-<header class="navbar" id="navbar">
-  <div class="nav-left">
-    <a href="/" class="nav-logo">🚀 马斯克铁粉站</a>
-  </div>
-  <div class="nav-right">
-    <a href="/long/">大作文</a>
-    <a href="/quotes/">名言</a>
-    <a href="/tweets/">X 言 X 语</a>
-    <a href="/gossip/">八卦</a>
-    <button id="themeToggle" class="theme-btn">🌓</button>
-  </div>
-</header>
-
 <!-- 必读推荐 -->
 <section>
   <h2>⭐ 必读推荐</h2>
@@ -86,43 +72,7 @@ title: 马斯克铁粉站
 
 
 <style>
-/* ============ 顶部导航栏 ============ */
-.navbar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-  padding: 14px 28px;
-  backdrop-filter: blur(10px);
-  background: rgba(255, 255, 255, 0.1);
-  transition: background 0.3s ease, box-shadow 0.3s;
-  z-index: 1000;
-}
-body.dark .navbar {
-  background: rgba(0, 0, 0, 0.3);
-}
-.navbar.scrolled {
-  background: var(--nav-solid);
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-}
-.nav-left a {
-  font-size: 20px;
-  font-weight: bold;
-  text-decoration: none;
-}
-.nav-right a, .theme-btn {
-  margin-left: 20px;
-  text-decoration: none;
-  font-size: 16px;
-}
-.theme-btn {
-  background: none;
-  border: none;
-  cursor: pointer;
-  font-size: 20px;
-}
+
 
 /* 全局颜色变量 */
 :root {
@@ -200,32 +150,4 @@ body.dark .nav-card:hover {
   color: #666;
 }
 </style>
-
-
-<script>
-// =========== 主题切换（亮 / 暗） ===========
-const themeToggle = document.getElementById("themeToggle");
-const savedTheme = localStorage.getItem("theme");
-
-if (savedTheme === "dark") {
-  document.body.classList.add("dark");
-}
-
-themeToggle.addEventListener("click", () => {
-  document.body.classList.toggle("dark");
-  localStorage.setItem("theme",
-    document.body.classList.contains("dark") ? "dark" : "light"
-  );
-});
-
-// =========== 顶部导航栏滚动变实色 ===========
-window.addEventListener("scroll", () => {
-  const nav = document.getElementById("navbar");
-  if (window.scrollY > 30) {
-    nav.classList.add("scrolled");
-  } else {
-    nav.classList.remove("scrolled");
-  }
-});
-</script>
 
