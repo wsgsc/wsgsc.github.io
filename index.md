@@ -167,6 +167,7 @@ body.dark .nav-card:hover {
 </style>
 
 <!-- Busuanzi 访客统计（直接放在首页可确保生效） -->
-<script async src="https://cdn.jsdelivr.net/gh/pg7go/busuanzi/bsz.pure.mini.js"></script>
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
 
 
