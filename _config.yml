@@ -2,6 +2,9 @@ theme: jekyll-theme-slate
 title: 马斯克铁粉站（最大中文粉丝站）
 description: Elon Musk 深度档案库
 favicon: /musk.png
+keywords: 马斯克, 埃隆·马斯克, Elon Musk, SpaceX, 特斯拉, Tesla, xAI, Neuralink, Starship, 火星殖民, Musk 粉丝站
+
+
 
 navigation:
   - title: 首页
