@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ page.title }} - {{ site.title }}</title>
+
+    <!-- Slate 主题样式 -->
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+
+    <!-- 网站图标 -->
+    <link rel="icon" type="image/png" href="{{ site.favicon }}">
+
+    <!-- 额外 head 内容 -->
+    {% include head.html %}
+  </head>
+
+  <body>
+
+    <div class="wrapper">
+      <header>
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
+        <nav>
+          <ul>
+            {% for item in site.navigation %}
+              <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </header>
+
+      <section>
+        {{ content }}
+      </section>
+
+      <footer>
+        <p>{{ site.title }}</p>
+        <p>
+          本站总访问量：<span id="busuanzi_value_site_pv">加载中...</span> 次<br>
+          本站访客数：<span id="busuanzi_value_site_uv">加载中...</span> 人
+        </p>
+      </footer>
+    </div>
+
+    <!-- Busuanzi -->
+    <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+  </body>
+</html>
+
