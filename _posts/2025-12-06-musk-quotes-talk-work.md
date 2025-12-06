@@ -1,5 +1,5 @@
 ---
-title: 埃隆·马斯克：不到20年，工作将成为一种爱好。
+title: 埃隆·马斯克：不到20年，工作将成为一种爱好
 categories: quotes
 layout: post
 ---
