@@ -62,33 +62,18 @@ layout: default
   </ul>
 </section>
 
-<!-- 全部文章（分页） -->
+<!-- 全部文章 -->
 <section>
-  <h2>🗂 全部文章（分页）</h2>
-
+  <h2>🗂 全部文章</h2>
   <ul class="latest-list">
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
         <small>{{ post.date | date: "%Y-%m-%d" }}</small>
       </li>
     {% endfor %}
   </ul>
-
-  <!-- 分页按钮 -->
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="page-btn">⬅ 上一页</a>
-    {% endif %}
-
-    <span>第 {{ paginator.page }} / {{ paginator.total_pages }} 页</span>
-
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="page-btn">下一页 ➡</a>
-    {% endif %}
-  </div>
 </section>
-
 
 
 
@@ -178,22 +163,6 @@ body.dark .nav-card:hover {
   text-align: center;
   color: #666;
 }
-
-/* 分页样式 */
-.pagination {
-  margin-top: 20px;
-  display: flex;
-  gap: 16px;
-  align-items: center;
-}
-.page-btn {
-  padding: 6px 12px;
-  background: var(--card-bg);
-  border-radius: 8px;
-  text-decoration: none;
-}
-
-
 </style>
 
 <!-- Busuanzi 访客统计（直接放在首页可确保生效） -->
