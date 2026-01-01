@@ -1,5 +1,5 @@
 ---
-title:埃隆·马斯克谈 Optimus 机器人与火星拓展
+title: 埃隆·马斯克谈 Optimus 机器人与火星拓展
 categories: quotes
 layout: post
 ---
@@ -39,7 +39,6 @@ Optimus 不是标题本身。
 
 正是这种延续性，让边疆不再只是一个概念，而开始真正变成“地方”。
 
-来源：埃隆·马斯克
 
 
 
