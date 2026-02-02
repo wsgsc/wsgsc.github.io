@@ -1,5 +1,5 @@
 ---
-title: 埃隆·马斯克：埃隆·马斯克：Optimus 未来甚至可以“跟着”罪犯，阻止他们再次犯罪。
+title: 埃隆·马斯克:Optimus 未来甚至可以“跟着”罪犯，阻止他们再次犯罪。
 categories: quotes
 layout: post
 ---
