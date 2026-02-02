@@ -1,10 +1,10 @@
 ---
-title: 埃隆·马斯克谈“钱”的本质：一种交换工具，也是跨时间的承诺机制
+title: 埃隆·马斯克谈“钱”的本质:一种交换工具，也是跨时间的承诺机制
 categories: quotes
 layout: post
 ---
 
-埃隆·马斯克谈“钱”的本质：一种交换工具，也是跨时间的承诺机制
+埃隆·马斯克谈“钱”的本质:一种交换工具，也是跨时间的承诺机制
 
 “货币的作用，说到底就是为了更方便地交换商品和服务，让人不必回到以物易物的状态；同时，它还能把义务在时间上进行转移。”
 
@@ -20,9 +20,9 @@ layout: post
 
 正是这一点，决定了现代经济体系不只是简单的买卖关系，而是一套建立在长期信任与时间安排之上的系统。
 
-来源：Elon Musk 与 Chamath Palihapitiya、Jason Calacanis、David Sacks、David Friedberg 的对谈
-时间：2022 年 5 月 16 日
-主题：经济、通胀与货币的本质
+来源:Elon Musk 与 Chamath Palihapitiya、Jason Calacanis、David Sacks、David Friedberg 的对谈
+时间:2022 年 5 月 16 日
+主题:经济、通胀与货币的本质
 
 
 

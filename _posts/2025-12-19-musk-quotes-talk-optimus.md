@@ -4,7 +4,7 @@ categories: quotes
 layout: post
 ---
 
-埃隆·马斯克谈 Optimus 和 Neuralink 结合所带来的可能性：
+埃隆·马斯克谈 Optimus 和 Neuralink 结合所带来的可能性:
 
 “长期来说，如果你把擎天柱类人机器人的部件和 Neuralink 结合起来，比如有人失去了手臂或腿。
 

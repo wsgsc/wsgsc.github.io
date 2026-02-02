@@ -1,10 +1,10 @@
 ---
-title: 埃隆·马斯克：星际飞船是目前地球上最壮观的事情
+title: 埃隆·马斯克:星际飞船是目前地球上最壮观的事情
 categories: quotes
 layout: post
 ---
 
-埃隆·马斯克：星际飞船是目前地球上最壮观的事情
+埃隆·马斯克:星际飞船是目前地球上最壮观的事情
 
 “至少在某些人看来，星际飞船是地球上目前正在发生的最令人惊叹的工程项目。也许除了人工智能或机器人技术之外。 
 
@@ -26,5 +26,5 @@ layout: post
 
 SpaceX 现在大约每隔几周发射一次，比大多数人看电影的频率还要高。 
 
-资料来源：RocketTranchBocaChica、TST、 joerogan
+资料来源:RocketTranchBocaChica、TST、 joerogan
 
