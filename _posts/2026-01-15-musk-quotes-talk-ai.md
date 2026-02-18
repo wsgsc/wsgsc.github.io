@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克提出 AI 成功的三大核心价值
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 “我认为，如果你拥有好奇心，而且如果人工智能能做到这三点，那么你的未来一定会非常好。那就是:AI 重视真理、重视美、也重视好奇心。”

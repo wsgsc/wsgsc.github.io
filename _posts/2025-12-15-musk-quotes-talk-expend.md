@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈向地球以外领域扩张的必要性
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈向地球以外领域扩张的必要性:

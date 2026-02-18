@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈:与 AI 融合，而不是与之竞争
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈:与 AI 融合，而不是与之竞争

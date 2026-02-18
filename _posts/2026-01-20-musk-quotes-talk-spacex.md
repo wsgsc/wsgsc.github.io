@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:星舰项目是一个极其艰难的工程
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克表示，星舰项目几乎触及了生物智能的极限，这是一个极其艰难的工程。

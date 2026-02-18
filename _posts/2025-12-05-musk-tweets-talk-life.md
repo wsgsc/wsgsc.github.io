@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我们不应该把在地球上生存视为理所当然
-categories: tweets
-layout: post
+categories: [tweets]
 ---
 
 埃隆·马斯克:我们不应该把在地球上生存视为理所当然

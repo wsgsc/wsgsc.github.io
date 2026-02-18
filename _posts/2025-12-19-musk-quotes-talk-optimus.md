@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈 Optimus 和 Neuralink 结合所带来的可能性
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈 Optimus 和 Neuralink 结合所带来的可能性:

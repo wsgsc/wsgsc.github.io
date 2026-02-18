@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈“钱”的本质:一种交换工具，也是跨时间的承诺机制
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈“钱”的本质:一种交换工具，也是跨时间的承诺机制

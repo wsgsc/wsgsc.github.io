@@ -1,7 +1,6 @@
 ---
 title: 火星变绿:埃隆·马斯克的愿景点燃
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈对寒冷世界的地球化改造

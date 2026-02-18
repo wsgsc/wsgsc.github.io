@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:终于可以解决该死的、毁灭灵魂的交通问题了
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:终于可以解决该死的、毁灭灵魂的交通问题了

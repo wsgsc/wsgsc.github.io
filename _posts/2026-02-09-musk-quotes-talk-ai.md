@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:当下人工智能领域最危险的事情，并不是发展速度，而是发展方向。
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:当下人工智能领域最危险的事情，并不是发展速度，而是发展方向。

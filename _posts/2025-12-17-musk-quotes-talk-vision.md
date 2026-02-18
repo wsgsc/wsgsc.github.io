@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:为什么道路系统的设计要面向计算机视觉和人工智能，而不是激光雷达
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克解释为什么道路系统的设计要面向计算机视觉和人工智能，而不是激光雷达:

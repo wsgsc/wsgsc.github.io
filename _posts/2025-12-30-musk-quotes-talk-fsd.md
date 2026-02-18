@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈:为什么“中等速度”才是自动驾驶最难的一关
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈:为什么“中等速度”才是自动驾驶最难的一关

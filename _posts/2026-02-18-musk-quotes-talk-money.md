@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈X Money
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈X Money:

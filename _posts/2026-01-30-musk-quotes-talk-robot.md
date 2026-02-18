@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:这就是为什么地球上的每个人都会想要一个人形机器人。
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:这就是为什么地球上的每个人都会想要一个人形机器人。

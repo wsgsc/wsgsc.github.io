@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克如何在工作中度过 18 个小时
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克如何在工作中度过 18 个小时

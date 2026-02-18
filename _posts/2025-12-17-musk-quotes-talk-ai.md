@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈为何你无法控制超级智能——而是与之协调
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈为何你无法控制超级智能——而是与之协调

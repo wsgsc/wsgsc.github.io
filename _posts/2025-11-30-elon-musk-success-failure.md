@@ -1,7 +1,6 @@
 ---
 title: 马斯克的成功与失败:一部真实的创业史
-categories: long
-layout: post
+categories: [long]
 ---
 
 埃隆·马斯克（Elon Musk）并不是天选之子，也不是常规意义上的商业天才。他的成功与失败交织在一起，构成了这个时代最具戏剧性的科技创业史。

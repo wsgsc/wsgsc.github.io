@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:不到20年，工作将成为一种爱好
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:不到20年，工作将成为一种爱好

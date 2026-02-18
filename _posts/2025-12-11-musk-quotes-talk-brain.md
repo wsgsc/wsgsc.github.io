@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:人类大脑只用 10 瓦功率，却建成了整个文明
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:人类大脑只用 10 瓦功率，却建成了整个文明

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我们应该拥有第二个星球来保护文明
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:我们应该拥有第二个星球来保护文明

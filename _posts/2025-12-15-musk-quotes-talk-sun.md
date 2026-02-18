@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我们已经免费拥有巨型聚变反应堆
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:既然我们已经免费拥有一个巨型聚变反应堆，就别再浪费数十亿美元建造小型聚变反应堆了。

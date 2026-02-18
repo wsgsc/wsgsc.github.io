@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我的目标是让意识延伸到未来与宇宙
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:我的目标是让意识延伸到未来与宇宙

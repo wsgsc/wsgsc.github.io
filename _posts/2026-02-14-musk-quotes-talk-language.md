@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克刚刚给“人类语言”判了死刑，并解释了它为何注定走向终结。
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克刚刚给“人类语言”判了死刑，并解释了它为何注定走向终结。

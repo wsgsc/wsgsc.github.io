@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈:为何“完全可重复使用”是航天的终极目标
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈:为何“完全可重复使用”是航天的终极目标

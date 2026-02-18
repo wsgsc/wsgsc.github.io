@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:科技是推动人类进步的动力
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:科技是推动人类进步的动力

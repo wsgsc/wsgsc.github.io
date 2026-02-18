@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克在世界经济论坛访谈的总结
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 **埃隆·马斯克在世界经济论坛访谈的总结**

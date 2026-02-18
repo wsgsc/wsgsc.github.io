@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈 AI接管世界:“那我们所有人还要干什么？”
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈 AI接管世界:“那我们所有人还要干什么？”

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克披露他创办 OpenAI 的真正原因
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 **埃隆·马斯克披露他创办 OpenAI 的真正原因**

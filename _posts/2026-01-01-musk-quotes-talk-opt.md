@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈 Optimus 机器人与火星拓展
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈 Optimus 机器人与火星拓展

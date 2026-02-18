@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:Grok 的幽默背后，是尽可能贴近宇宙真理的追求
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:Grok 的幽默背后，是尽可能贴近宇宙真理的追求

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:不应该用计算机来进行选票统计
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克表示:作为一个热爱技术的技术人员，我认为**不应该用计算机来进行选票统计**。

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈打造他的第一个初创公司 Zip2
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈打造他的第一个初创公司 Zip2

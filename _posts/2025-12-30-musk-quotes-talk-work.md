@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:先让它跑起来，之后再慢慢变好
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:先让它跑起来，之后再慢慢变好。

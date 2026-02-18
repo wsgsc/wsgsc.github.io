@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:文明正在以人们想象中更快的速度走向衰亡
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:文明正在以人们想象中更快的速度走向衰亡

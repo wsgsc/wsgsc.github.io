@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈“超级努力”的意义
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈“超级努力”的意义

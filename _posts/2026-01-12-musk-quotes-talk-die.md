@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我们的文明终将走向终结，只是我们不希望那一天来得太早
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:我们的文明终将走向终结，只是我们不希望那一天来得太早。

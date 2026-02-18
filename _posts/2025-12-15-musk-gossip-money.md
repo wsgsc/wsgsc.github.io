@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克是人类历史上第一个净资产达到 6000 亿美元的人
-categories: gossip
-layout: post
+categories: [gossip]
 ---
 
 埃隆·马斯克是人类历史上第一个净资产达到 6000 亿美元的人，但他过着与人们预期截然不同的生活。

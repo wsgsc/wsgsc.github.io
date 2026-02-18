@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈:特斯拉市值之所以高，是因为自动驾驶的价值极其巨大
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克（2023）:特斯拉市值之所以高，是因为自动驾驶的价值极其巨大，这将带来一场巨变。

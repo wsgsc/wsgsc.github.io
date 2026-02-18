@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:美国也许会被中国超越
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:美国也许会被中国超越

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈童年的好奇心:贯穿一生的驱动力
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈童年的好奇心:贯穿一生的驱动力

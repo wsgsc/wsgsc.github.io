@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我们的机器人拥有真正的“大脑”
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:我们的机器人拥有真正的“大脑”

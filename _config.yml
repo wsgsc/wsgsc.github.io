@@ -1,22 +1,57 @@
-theme: jekyll-theme-slate
-title: 马斯克铁粉站（最大中文粉丝站）
+theme: jekyll-theme-chirpy
+
+lang: zh-CN
+timezone: Asia/Shanghai
+
+title: 马斯克铁粉站
+tagline: 最大中文马斯克粉丝内容站
 description: Elon Musk 深度档案库
-favicon: /favicon.ico
-keywords: 马斯克, 埃隆·马斯克, Elon Musk, SpaceX, 特斯拉, Tesla, xAI, Neuralink, Starship, 火星殖民, Musk 粉丝站
 
+url: "https://muskfans.cn"
 
+github:
+  username: wsgsc
 
-navigation:
-  - title: 首页
-    url: /
-  - title: 大作文
-    url: /long/
-  - title: 马斯克名言
-    url: /quotes/
-  - title: X言X语
-    url: /tweets/
-  - title: 马斯克八卦
-    url: /gossip/
+social:
+  name: 马斯克铁粉站
+  links: []
 
-paginate: 20
-paginate_path: "/page:num/"
+avatar: /assets/img/avatar.png
+
+paginate: 10
+
+toc: false
+
+markdown: kramdown
+
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+
+plugins:
+  - jekyll-paginate
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: false
+      math: false
+      mermaid: false
+  - scope:
+      path: _tabs
+    values:
+      layout: page
+      permalink: /:title/

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:星舰是迄今为止制造的最大飞行器
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:星舰是迄今为止制造的最大飞行器----✨

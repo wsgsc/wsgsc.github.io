@@ -1,7 +1,6 @@
 ---
 title: 观点:Neuralink 会让人类跟上超级人工智能的步伐吗？
-categories: companies
-layout: post
+categories: [companies]
 ---
 
 观点:Neuralink 会让人类跟上超级人工智能的步伐吗？

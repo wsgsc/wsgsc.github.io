@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈人类最糟糕的发明短视频
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈人类最糟糕的发明短视频

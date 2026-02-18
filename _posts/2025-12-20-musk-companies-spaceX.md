@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克揭示 SPACEX 无尽创新的秘密
-categories: companies
-layout: post
+categories: [companies]
 ---
 
 埃隆·马斯克揭示 SPACEX 无尽创新的秘密

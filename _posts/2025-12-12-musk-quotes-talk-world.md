@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:时间旅行和瞬间传送会破坏现实，除非我们身处一个模拟之中
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:时间旅行和瞬间传送会破坏现实，除非我们身处一个模拟之中

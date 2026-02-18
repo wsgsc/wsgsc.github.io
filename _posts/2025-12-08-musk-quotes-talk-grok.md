@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:Grok 是唯一一个将人类生命同等看待的人工智能
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:Grok 是唯一一个将人类生命同等看待的人工智能

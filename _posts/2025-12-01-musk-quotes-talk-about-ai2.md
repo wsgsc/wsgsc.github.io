@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:当人工智能足够强大时，金钱将不再重要
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:当人工智能足够强大时，金钱将不再重要

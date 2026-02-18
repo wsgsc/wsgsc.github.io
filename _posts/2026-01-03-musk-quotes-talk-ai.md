@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:要称得上真正的智能，AI 必须做出与现实一致的预测
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:要称得上真正的智能，AI 必须做出与现实一致的预测。

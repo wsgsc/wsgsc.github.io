@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克的愿景:一幅让未来变得真实的画面
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克的愿景:一幅让未来变得真实的画面

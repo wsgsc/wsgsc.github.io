@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:真正去创办一家公司，比你想象的要简单
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:真正去创办一家公司，比你想象的要简单

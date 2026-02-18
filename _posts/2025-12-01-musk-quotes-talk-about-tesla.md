@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:特斯拉永远不会生产摩托车的原因
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克 (Elon Musk) 谈特斯拉永远不会生产摩托车的原因:“我差点被卡车撞死。”

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:这是历史上最意义深远的事件之一
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈星舰:

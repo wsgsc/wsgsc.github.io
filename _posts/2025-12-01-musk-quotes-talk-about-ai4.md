@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:未来每个国家都会有自己的人工智能集群
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:未来每个国家都会有自己的人工智能集群

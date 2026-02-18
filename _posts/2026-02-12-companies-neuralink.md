@@ -1,7 +1,6 @@
 ---
 title: Neuralink 在英国迎来首位植入患者，创造历史 
-categories: companies
-layout: post
+categories: [companies]
 ---
 
 🚨 Neuralink 在英国迎来首位植入患者，创造历史 🧠

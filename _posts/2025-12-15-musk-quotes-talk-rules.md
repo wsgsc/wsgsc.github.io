@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:为什么人类进步需要废除规则
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:为什么人类进步需要废除规则

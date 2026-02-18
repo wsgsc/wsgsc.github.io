@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我犯的最大错误
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:“我犯的最大错误就是过分看重一个人的才能，而忽略了他们的性格，事实上，一个人是否心地善良才是最重要的。”

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克关于人口崩溃的精彩警告
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克关于人口崩溃的精彩警告

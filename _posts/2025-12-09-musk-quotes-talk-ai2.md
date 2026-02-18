@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我连续好几天都做关于人工智能的噩梦
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:我连续好几天都做关于人工智能的噩梦

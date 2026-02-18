@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈慈善事业
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈慈善事业:

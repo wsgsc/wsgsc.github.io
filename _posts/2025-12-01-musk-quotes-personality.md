@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:个性比天赋更重要
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:个性比天赋更重要

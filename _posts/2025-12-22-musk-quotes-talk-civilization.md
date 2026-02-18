@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:文明要么会消失，要么人工智能和机器人技术将消除稀缺性
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:“文明要么会消失，要么人工智能和机器人技术将消除稀缺性。

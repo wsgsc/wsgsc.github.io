@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:euralink 可以解决很多问题
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:母亲忘记自己的孩子是一件非常令人悲哀的事情。Neuralink 可以解决这个问题。

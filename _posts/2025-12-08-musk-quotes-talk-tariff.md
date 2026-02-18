@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我曾试图说服特朗普放弃关税，但没有成功
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:我曾试图说服特朗普放弃关税，但没有成功

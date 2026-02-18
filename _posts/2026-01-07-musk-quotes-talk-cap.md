@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈能源利用中的“时间缺口”
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈能源利用中的“时间缺口”

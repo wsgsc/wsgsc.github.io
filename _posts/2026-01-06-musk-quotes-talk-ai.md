@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克在最新一次采访中表示:AI 是否在乎**真理、好奇心与美**，至关重要
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克在最新一次采访中表示:AI 是否在乎**真理、好奇心与美**，至关重要。

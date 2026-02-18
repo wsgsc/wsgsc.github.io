@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:永远不要相信愤世嫉俗者，因为大多数人都算是中等水平  
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:永远不要相信愤世嫉俗者，因为大多数人都算是中等水平  ❤️ 

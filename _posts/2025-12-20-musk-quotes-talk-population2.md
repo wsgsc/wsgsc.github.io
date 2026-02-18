@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克关:地球人口并非过剩，而是不足
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克关:地球人口并非过剩，而是不足

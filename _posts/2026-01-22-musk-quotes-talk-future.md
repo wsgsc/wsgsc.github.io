@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:未来，机器人会制造出海量的机器人，多到足以满足人类的所有需求
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:

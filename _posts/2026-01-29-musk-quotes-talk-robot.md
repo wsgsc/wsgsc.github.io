@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈学习物理:真正重要的不是公式，而是发现这些公式的思维过程。
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈学习物理:真正重要的不是公式，而是发现这些公式的思维过程。

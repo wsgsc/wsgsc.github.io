@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈通往财富的“间接路径”
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 **埃隆·马斯克谈通往财富的“间接路径”**

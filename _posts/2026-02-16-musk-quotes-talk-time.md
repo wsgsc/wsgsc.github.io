@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:唯一无法替代的，是时间!
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:唯一无法替代的，是时间!

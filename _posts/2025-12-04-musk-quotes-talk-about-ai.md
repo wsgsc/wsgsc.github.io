@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:将明确的道德观念编程到人工智能中可能会产生危险的反作用
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:将明确的道德观念编程到人工智能中可能会产生危险的反作用

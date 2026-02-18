@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:AI将转移到太空中
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈永生:AI将转移到太空中

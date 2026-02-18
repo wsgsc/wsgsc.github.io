@@ -1,7 +1,6 @@
 ---
 title: 地球上第三位植入 Neuralink 芯片的人，第一次用“大脑”发声
-categories: companies
-layout: post
+categories: [companies]
 ---
 
 地球上第三位植入 Neuralink 芯片的人，第一次用“大脑”发声

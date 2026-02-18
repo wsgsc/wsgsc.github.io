@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:“如果人类活得过久，社会会变得僵化”
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:**“如果人类活得过久，领导层就永远不会更替。”**

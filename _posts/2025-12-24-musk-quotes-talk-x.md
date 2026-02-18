@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈“万能应用”的起源
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈“万能应用”的起源

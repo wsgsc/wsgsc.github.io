@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:现实才是终极裁判
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:现实才是终极裁判。

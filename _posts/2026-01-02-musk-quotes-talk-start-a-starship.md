@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈星舰如何让太空太阳能成为现实
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈星舰如何让太空太阳能成为现实

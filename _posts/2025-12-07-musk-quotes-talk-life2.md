@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:生活不应该只有问题，我们需要理由去兴奋
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:生活不应该只有问题，我们需要理由去兴奋

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:地球是人类的摇篮，但我们并非生来就该永远待在那里
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:地球是人类的摇篮，但我们并非生来就该永远待在那里。

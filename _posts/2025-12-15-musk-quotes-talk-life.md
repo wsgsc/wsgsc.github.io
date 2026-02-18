@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈美好生活的最简单衡量标准
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈美好生活的最简单衡量标准

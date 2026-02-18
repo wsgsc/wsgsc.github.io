@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克刚刚点名了那些最先被 AI 淘汰的岗位
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克刚刚点名了那些最先被 AI 淘汰的岗位

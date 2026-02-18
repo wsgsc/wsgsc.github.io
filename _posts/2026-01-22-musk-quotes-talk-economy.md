@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:经济并不是一个“凭空出货的魔法聚宝盆
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克::**经济并不是一个“凭空出货的魔法聚宝盆”。**

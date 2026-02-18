@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我们需要停止关于地球人口过剩的虚假宣传
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:我们需要停止关于地球人口过剩的虚假宣传

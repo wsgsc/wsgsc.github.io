@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:无论贫富，无论身处哪个国家，每个人都需要灵感
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:无论贫富，无论身处哪个国家，每个人都需要灵感。

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈如何招募世界上最优秀的人才
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 **埃隆·马斯克谈如何招募世界上最优秀的人才:**

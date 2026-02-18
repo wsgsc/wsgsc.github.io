@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我不颠覆，我创造
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:我不颠覆，我创造

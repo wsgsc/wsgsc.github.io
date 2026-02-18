@@ -1,7 +1,6 @@
 ---
 title: 马斯克为什么说“地球人口正在崩塌”？他的14条生育主义金句（2025年12月最终核实版）
-categories: long
-layout: post
+categories: [long]
 ---
 
 # 马斯克为什么说“地球人口正在崩塌”？  

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:如果一颗彗星撞上地球，那就是终局。我们必须成为多行星文明!
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:如果一颗彗星撞上地球，那就是终局。我们必须成为多行星文明!

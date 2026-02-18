@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈社会革新
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈社会革新

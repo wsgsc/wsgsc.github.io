@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈招聘:善良很重要。
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 **埃隆·马斯克谈招聘:善良很重要。**

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈xAI 和 Grok 的使命
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 **你必须以最严格的态度追求真理，哪怕它与所谓的“政治正确”相冲突。**

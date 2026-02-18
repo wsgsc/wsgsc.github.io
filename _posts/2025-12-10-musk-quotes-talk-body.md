@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:你的原子曾存在于星星之中
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:你的原子曾存在于星星之中

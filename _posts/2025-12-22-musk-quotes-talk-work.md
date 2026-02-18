@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:有更轻松的工作地方，但没人能靠每周40小时改变世界。
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:“有更轻松的工作地方，但没人能靠每周40小时改变世界。”

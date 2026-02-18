@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:如果文明继续发展下去，太空人工智能是不可避免的。
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:如果文明继续发展下去，太空人工智能是不可避免的。

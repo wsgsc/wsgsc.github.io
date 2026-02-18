@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈加密货币未来:比特币是价值储存，而非交易货币
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈加密货币未来:比特币是价值储存，而非交易货币

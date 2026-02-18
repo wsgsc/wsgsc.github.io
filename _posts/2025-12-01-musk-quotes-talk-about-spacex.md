@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我把所有的钱都给了SpaceX和特斯拉，结果我连房子都没有，还得借钱交房租
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:我把所有的钱都给了SpaceX和特斯拉，结果我连房子都没有，还得借钱交房租

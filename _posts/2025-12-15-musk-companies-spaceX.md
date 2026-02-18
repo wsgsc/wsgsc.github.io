@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克刚刚确认了历史上最疯狂的首次公开募股。
-categories: companies
-layout: post
+categories: [companies]
 ---
 
 埃隆·马斯克刚刚确认了历史上最疯狂的首次公开募股。

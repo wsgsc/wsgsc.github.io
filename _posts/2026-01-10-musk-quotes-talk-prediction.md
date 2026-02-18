@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克2026年1月震撼预测
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克震撼预测（2026 年 1 月）:

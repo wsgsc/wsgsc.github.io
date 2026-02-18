@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈2018年:那是一段非常残酷的日子。
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 在 2018 年的 SXSW 上，埃隆·马斯克罕见地敞开心扉，讲述了自己为何甘愿押上一切。

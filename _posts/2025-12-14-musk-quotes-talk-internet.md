@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:互联网是人类神经系统
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:互联网是人类神经系统。

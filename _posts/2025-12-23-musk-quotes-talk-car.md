@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈为什么创业汽车公司并不容易
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈为什么创业汽车公司并不容易

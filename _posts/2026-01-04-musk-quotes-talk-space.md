@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:为什么“可重复使用”对航天来说没有退路
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:为什么“可重复使用”对航天来说没有退路

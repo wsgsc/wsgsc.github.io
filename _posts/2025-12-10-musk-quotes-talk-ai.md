@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:在地球上打造“太瓦级 AI”不可能，唯一的选择是太空
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:在地球上打造“太瓦级 AI”不可能，唯一的选择是太空

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈火星旅行成本
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈火星旅行成本

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我的优势在于跨行业交叉借鉴思想
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克说过，他的优势在于**跨行业交叉借鉴思想**。

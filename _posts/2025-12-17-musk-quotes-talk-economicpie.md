@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:经济蛋糕不是固定的
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:经济蛋糕不是固定的，所以要努力把经济蛋糕做大，创造的要比你消费的多。

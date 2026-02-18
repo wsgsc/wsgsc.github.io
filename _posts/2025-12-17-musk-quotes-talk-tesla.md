@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:特斯拉可以造出飞行汽车
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:特斯拉可以造出飞行汽车……但这需要一些时间。

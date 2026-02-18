@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:除非被灌输了其他观念，否则我们都热爱人类
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:除非被灌输了其他观念，否则我们都热爱人类

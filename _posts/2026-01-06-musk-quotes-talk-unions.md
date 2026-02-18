@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈他为何反对工会
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈他为何反对工会

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我们正迈向后工作社会
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:我们正迈向后工作社会

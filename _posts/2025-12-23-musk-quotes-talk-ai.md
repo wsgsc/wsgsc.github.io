@@ -1,7 +1,6 @@
 ---
 title: 埃埃隆·马斯克谈人工智能与机器人如何开启一个“富足时代”
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈人工智能与机器人如何开启一个“富足时代”

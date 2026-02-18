@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:SpaceX、特斯拉和 xAI 正在汇聚，走向一个由太阳能驱动的 AI 未来
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 **埃隆·马斯克:SpaceX、特斯拉和 xAI 正在汇聚，走向一个由太阳能驱动的 AI 未来**

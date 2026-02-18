@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:如果我们强迫 AI 相信不真实的事情，它就可能变得非常危险
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:如果我们强迫 AI 相信不真实的事情，它就可能变得非常危险

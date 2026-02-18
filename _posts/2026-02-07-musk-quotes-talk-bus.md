@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:也许不该给汽车太多智能，否则它们可能会感到无聊。
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 **埃隆·马斯克:也许不该给汽车太多智能，否则它们可能会感到无聊。**

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我会建议大家投资英伟达和谷歌
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:我会建议大家投资英伟达和谷歌

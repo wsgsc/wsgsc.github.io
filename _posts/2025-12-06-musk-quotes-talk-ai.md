@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:人工智能将很快在各方面都比人类更聪明
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:人工智能将很快在各方面都比人类更聪明

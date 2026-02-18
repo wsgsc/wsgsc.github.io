@@ -1,7 +1,6 @@
 ---
 title: Neuralink的目标是明年为完全失明的人恢复（有限的）视力
-categories: companies
-layout: post
+categories: [companies]
 ---
 
 Neuralink的目标是明年为完全失明的人恢复（有限的）视力。

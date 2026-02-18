@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克解释星舰如何作为“全球超级出租车”
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克解释星舰如何作为“全球超级出租车”

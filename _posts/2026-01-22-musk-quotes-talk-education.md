@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:传统教育体系会被AI改进
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:

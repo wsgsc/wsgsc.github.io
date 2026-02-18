@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我热爱时尚。美丽非常重要
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:我热爱时尚。美丽非常重要

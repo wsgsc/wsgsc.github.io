@@ -1,7 +1,6 @@
 ---
 title: 梅耶·马斯克谈埃隆
-categories: gossip
-layout: post
+categories: [gossip]
 ---
 
 梅耶·马斯克谈埃隆:

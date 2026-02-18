@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:有些文化正面临消失的风险
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:有些文化正面临消失的风险

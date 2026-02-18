@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:“我们需要死去，新思想才能胜出”
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈永生:“我们需要死去，新思想才能胜出”

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:星际飞船是目前地球上最壮观的事情
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:星际飞船是目前地球上最壮观的事情

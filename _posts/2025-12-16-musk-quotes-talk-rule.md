@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:星舰计划和多行星未来正因监管的拖沓而严重受阻
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:星舰计划和多行星未来正因监管的拖沓而严重受阻

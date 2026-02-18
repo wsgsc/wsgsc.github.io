@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:特斯拉将建设“Optimus 学院”，通过自博弈训练成千上万台机器人
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 **埃隆·马斯克:特斯拉将建设“Optimus 学院”，通过自博弈训练成千上万台机器人。**

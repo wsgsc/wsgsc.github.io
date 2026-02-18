@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:学位证明不了什么，拿出你的成果来
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:学位证明不了什么，拿出你的成果来。

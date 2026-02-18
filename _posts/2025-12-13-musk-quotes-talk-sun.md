@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克的天才之处:通往无限能量的捷径
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克的天才之处:通往无限能量的捷径

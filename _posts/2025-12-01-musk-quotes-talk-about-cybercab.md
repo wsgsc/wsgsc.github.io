@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:Cybercab 将没有方向盘或踏板
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:Cybercab 将没有方向盘或踏板，并将于明年第二季度开始生产

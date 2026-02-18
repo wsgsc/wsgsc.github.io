@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:最快的隧道建设每英里需要三个月的时间。我们想每周跑一英里
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:最快的隧道建设每英里需要三个月的时间。我们想每周跑一英里

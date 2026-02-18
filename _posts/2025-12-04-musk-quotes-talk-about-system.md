@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:未来，不会有操作系统或应用程序
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:未来，不会有操作系统或应用程序

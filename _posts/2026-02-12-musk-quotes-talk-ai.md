@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克预测:到 2026 年底，AI 将彻底绕开传统编程流程——直接生成可执行的二进制文件。
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克预测:到 2026 年底，AI 将彻底绕开传统编程流程——直接生成可执行的二进制文件。

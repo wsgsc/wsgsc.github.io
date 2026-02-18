@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克解释了他用来把学习效率提升 10 倍的思维模型。
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克解释了他用来把学习效率提升 10 倍的思维模型。

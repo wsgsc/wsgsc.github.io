@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:感谢星际飞船，我们将能够将人工智能转移到深空
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:感谢星际飞船，我们将能够将人工智能转移到深空

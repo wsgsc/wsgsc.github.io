@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我们唯一的目标，应该是让这个世界始终有意思
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:我们唯一的目标，应该是让这个世界始终有意思

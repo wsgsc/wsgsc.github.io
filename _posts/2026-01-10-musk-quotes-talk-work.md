@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我其实没有办公室。我要么在现场走动，要么就在开会
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:我其实没有办公室。我要么在现场走动，要么就在开会。

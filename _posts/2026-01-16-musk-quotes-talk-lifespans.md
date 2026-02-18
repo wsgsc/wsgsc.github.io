@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克认为，寿命过度延长可能导致社会“僵化”
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 **埃隆·马斯克认为，寿命过度延长可能导致社会“僵化”**

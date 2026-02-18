@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈为何胜利从来都不是重点——加速未来才是
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈为何胜利从来都不是重点——加速未来才是。

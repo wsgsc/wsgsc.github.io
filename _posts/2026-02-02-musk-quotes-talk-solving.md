@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克解释了他解决任何问题的五步算法
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 **埃隆·马斯克解释了他解决任何问题的五步算法:**

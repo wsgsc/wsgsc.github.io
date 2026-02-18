@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:人们不应该因为做一个人而感到内疚
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:人们不应该因为做一个人而感到内疚

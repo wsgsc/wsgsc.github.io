@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:让“月球基地阿尔法”成为现实吧！
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:让“月球基地阿尔法”成为现实吧！

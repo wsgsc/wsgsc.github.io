@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:AI 应该去那些物理定律能给你“不公平优势”的地方
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 **AI 应该去那些物理定律能给你“不公平优势”的地方:太空**

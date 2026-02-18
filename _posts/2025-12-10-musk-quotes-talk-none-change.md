@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:25 年来我们一直穿着同样的衣服
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:25 年来我们一直穿着同样的衣服

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克的“富足时代”愿景
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克的“富足时代”愿景

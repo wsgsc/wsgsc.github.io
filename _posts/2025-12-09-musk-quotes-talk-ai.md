@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:人工智能和机器人的工作将是“可选的”，但“终结者情景”并非0%
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:人工智能和机器人的工作将是“可选的”，但“终结者情景”并非0%

@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:很多人没有意识到，太阳能几乎就是一切
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:很多人没有意识到，太阳能几乎就是一切

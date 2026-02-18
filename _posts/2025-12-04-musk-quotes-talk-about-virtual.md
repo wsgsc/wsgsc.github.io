@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:电子游戏将与现实无异
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:电子游戏将与现实无异

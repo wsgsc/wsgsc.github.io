@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:我们需要拥有一个最大限度追求真理和好奇心的人工智能
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:我的最终结论是，我们需要拥有一个最大限度追求真理和好奇心的人工智能。

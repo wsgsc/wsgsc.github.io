@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈真正的善意与人类的未来
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈真正的善意与人类的未来

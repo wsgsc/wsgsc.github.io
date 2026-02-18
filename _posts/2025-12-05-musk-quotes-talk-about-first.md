@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:第一性原理思维是尽可能高效地制造产品的关键
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:第一性原理思维是尽可能高效地制造产品的关键

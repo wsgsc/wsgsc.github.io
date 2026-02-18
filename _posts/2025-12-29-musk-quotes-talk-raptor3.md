@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克谈 Raptor 3:工程上的重大飞跃
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克谈 Raptor 3:工程上的重大飞跃

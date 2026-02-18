@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:业者通常会经历一番艰苦奋斗后以死亡告终
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:创业者通常会经历一番艰苦奋斗后以死亡告终

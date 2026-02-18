@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:战胜恐惧最快的方式，就是直面它
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克常说，战胜恐惧最快的方式，就是直面它。

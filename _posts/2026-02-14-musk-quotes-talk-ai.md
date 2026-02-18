@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:人类在未来智能版图中的位置，可能远比我们想象得更小。
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:人类在未来智能版图中的位置，可能远比我们想象得更小。

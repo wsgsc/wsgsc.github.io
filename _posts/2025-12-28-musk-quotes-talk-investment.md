@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克的投资建议
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克的投资建议很简单:如果你真心喜欢一家公司的产品，并且相信它未来会把产品做得更好，那就可以买它的股票。

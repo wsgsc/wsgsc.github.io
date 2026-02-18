@@ -1,7 +1,6 @@
 ---
 title: 突发新闻:特拉华州最高法院作出重大裁决
-categories: companies
-layout: post
+categories: [companies]
 ---
 
 突发新闻:特拉华州最高法院作出重大裁决，裁定必须恢复埃隆·马斯克2018年560亿美元的薪酬方案。

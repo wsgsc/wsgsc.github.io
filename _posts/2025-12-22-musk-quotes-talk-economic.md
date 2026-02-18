@@ -1,7 +1,6 @@
 ---
 title: 埃隆·马斯克:很多负面情绪源于一个根本性的错误假设
-categories: quotes
-layout: post
+categories: [quotes]
 ---
 
 埃隆·马斯克:很多负面情绪源于一个根本性的错误假设——认为经济这块“蛋糕”是静态的，是一个零和博弈。
