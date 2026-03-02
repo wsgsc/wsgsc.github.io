@@ -1,6 +1,6 @@
 ---
 title: 埃隆·马斯克刚刚揭示了440亿美元收购推特的真正目的
-categories: [long]
+categories: [quotes]
 ---
 
 埃隆·马斯克刚刚揭示了440亿美元收购推特的真正目的。
