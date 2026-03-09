@@ -1,5 +1,5 @@
 ---
-title: 使命与原则
+title: 埃隆·马斯克讲使命与原则
 categories: [long]
 ---
 

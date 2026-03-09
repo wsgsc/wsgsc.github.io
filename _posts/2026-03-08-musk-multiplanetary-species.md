@@ -1,5 +1,5 @@
 ---
-title: 多行星物种
+title: 埃隆·马斯克:唯一途径就是成为多行星物种
 categories: [long]
 ---
 
