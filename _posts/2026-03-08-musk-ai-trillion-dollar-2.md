@@ -1,6 +1,6 @@
 ---
 title: 埃隆·马斯克阐述人工智能领域的万亿美元机遇
-categories: [long]
+categories: [quotes]
 ---
 
 埃隆·马斯克阐述人工智能领域的万亿美元机遇
