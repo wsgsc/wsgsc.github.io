@@ -26,3 +26,7 @@ X 是地球上唯一一个未经过滤的现实以其发生的实际速度移动
 所有这些都在一个单一应用内。智能与执行之间的延迟刚刚崩溃为零。这不是功能更新。这是人类决策速度限制的结构性变化。
 
 马斯克花费了二十五年的时间工程化出这一刻的条件。二十五年前他们扼杀了他的愿景。他们试图埋葬的系统现在正在他们之下运行。
+
+<video style="width:100%;aspect-ratio:16/9;" controls>
+  <source src="/assets/video/musk-vertical-integration.mp4" type="video/mp4">
+</video>
