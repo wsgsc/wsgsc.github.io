@@ -12,5 +12,5 @@ categories: [tweets]
 除了人类最擅长的事情——适应——我们无能为力。祝你好运，并祈祷。
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
-  <source src="/assets/video/musk-tweet-video.mp4" type="video/mp4">
+  <source src="/assets/video/musk-singularity-announcement.mp4" type="video/mp4">
 </video>
