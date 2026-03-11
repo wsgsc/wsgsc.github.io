@@ -1,5 +1,5 @@
 ---
-title: 马斯克宣布：我们正处于奇点
+title: 埃隆·马斯克：宣布我们正处于奇点
 categories: [tweets]
 ---
 
