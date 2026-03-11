@@ -1,5 +1,5 @@
 ---
-title: 埃隆·马斯克：成功与近乎成功的区别
+title: 埃隆·马斯克: 成功与近乎成功的区别
 categories: [quotes]
 ---
 
