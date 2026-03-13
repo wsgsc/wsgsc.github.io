@@ -1,5 +1,5 @@
 ---
-title: 埃隆·马斯克: 原谅很重要
+title: 埃隆·马斯克：原谅很重要
 categories: [quotes]
 ---
 
