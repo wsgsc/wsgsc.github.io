@@ -14,3 +14,7 @@ categories: [quotes]
 但归根结底，我认为我们无法控制他。
 
 我们所能做到最好的，就是确保他接受良好的教育。"
+
+<video style="width:100%;aspect-ratio:16/9;" controls>
+  <source src="/assets/video/musk-super-ai-control.mp4" type="video/mp4">
+</video>
