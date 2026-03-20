@@ -6,3 +6,5 @@ categories: [quotes]
 "比那些恨你的人更强大，让他们无法摧毁你，然后原谅他们。"
 
 ——埃隆·马斯克
+
+![比那些恨你的人更强大](/assets/img/musk-stronger-than-haters.png)
