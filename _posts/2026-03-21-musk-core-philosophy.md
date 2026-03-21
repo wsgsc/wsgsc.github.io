@@ -1,5 +1,5 @@
 ---
-title: 埃隆·马斯克:谈及他的核心理念
+title: 埃隆·马斯克谈及他的核心理念
 categories: [quotes]
 ---
 
