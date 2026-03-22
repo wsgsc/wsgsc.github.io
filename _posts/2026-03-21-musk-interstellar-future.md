@@ -1,5 +1,5 @@
 ---
-title: 埃隆·马斯克:谈人类在星际间的未来
+title: 埃隆·马斯克谈人类在星际间的未来
 categories: [quotes]
 ---
 
