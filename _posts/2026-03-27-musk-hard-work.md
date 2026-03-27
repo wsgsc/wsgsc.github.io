@@ -1,5 +1,5 @@
 ---
-title: 埃隆·马斯克: 谈"勤奋"
+title: 埃隆·马斯克谈"勤奋"
 categories: [quotes]
 ---
 
